@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_security_oauth.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_security_oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_security_oauth_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_security_oauth_main.iml" group="spring_security_oauth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_security_oauth_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_security_oauth_test.iml" group="spring_security_oauth" />
+    </modules>
+  </component>
+</project>
